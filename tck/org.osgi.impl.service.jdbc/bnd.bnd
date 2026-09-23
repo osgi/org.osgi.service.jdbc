@@ -1,0 +1,9 @@
+# Set javac settings from JDT prefs
+
+Bundle-Activator: 		${p}.Activator
+-privatepackage: 		${p}.*
+
+Bundle-Description: 	OSGi JDBC Service Reference Implementation by Oracle Corporation.
+Bundle-Category: 		osgi
+
+p: org.osgi.impl.service.jdbc
