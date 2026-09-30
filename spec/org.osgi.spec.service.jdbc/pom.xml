@@ -12,7 +12,7 @@
 		<relativePath>../../pom.xml</relativePath>
 	</parent>
 	<artifactId>org.osgi.spec.service.jdbc</artifactId>
-	<name>OSGi Specification repo for org.osgi.service.jdbc</name>
+	<name>OSGi Data Service Specification for JDBC Technology</name>
 
 	<dependencies>
 		<dependency>
